@@ -38,8 +38,8 @@ This project performs topic classification of news articles into 5 categories: b
 
 | Model                            | Accuracy 
 |----------------------------------|----------
-| Logistic Regression with TF-IDF  | 0.97%    
-| Logistic Regression with BoW     | 0.95%    
+| Logistic Regression with TF-IDF  | 97%    
+| Logistic Regression with BoW     | 95%    
 
 
 ## 📷 Visual Samples
