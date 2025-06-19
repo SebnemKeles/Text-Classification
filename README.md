@@ -44,8 +44,7 @@ This project performs topic classification of news articles into 5 categories: b
 
 ## 📷 Visual Samples
 
-![Confusion Matrix-tfidf](https://github.com/user-attachments/assets/9394fdc0-32c0-4f84-9c9b-40ef3bcb0ce5)
-![Confusion Matrix-bow](https://github.com/user-attachments/assets/db4ab04c-4b1f-4ed7-b310-b04d7e091cd1)
+- Confusion Matrices for each extraction    
 
 
 ## 💡 Future Improvements
